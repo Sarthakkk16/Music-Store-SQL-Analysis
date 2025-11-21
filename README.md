@@ -1,2 +1,4 @@
+![](https://github.com/Sarthakkk16/Music-Store-SQL-Analysis/blob/main/DATA%20MODEL.png)
+
 # Music-Store-SQL-Analysis
 This repository contains a complete SQL case study based on the Chinook Music Store Database, featuring a relational data model of artists, tracks, albums, customers, invoices, employees, playlists, and genres. 
